@@ -1,0 +1,17 @@
+.container{
+    width:400px;
+    margin:50px auto;
+    background:#eaeaea;
+}
+
+.user-container{
+    background: green;
+}
+
+.todo-container{
+    width:400px;
+    height:420px;
+    overflow-y: auto;
+    margin:30px auto;
+    background:#ea9800;
+}

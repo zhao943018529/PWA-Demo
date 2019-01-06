@@ -1,0 +1,23 @@
+{
+  "name": "pwa-demo",
+  "version": "1.0.0",
+  "description": "demo for progress web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhao943018529/PWA-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhao943018529/PWA-Demo/issues"
+  },
+  "homepage": "https://github.com/zhao943018529/PWA-Demo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
